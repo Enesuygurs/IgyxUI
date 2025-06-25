@@ -19,7 +19,7 @@ A custom, modern, dark-themed UI control library for C# WinForms, designed to pr
 ### 🖼️ Screenshots
 
 #### Container and Other Controls
-![form](https://github.com/user-attachments/assets/c9ee2a48-1282-4662-9985-8af6aef73b9e)
+![form](https://github.com/user-attachments/assets/26bb9d68-c71e-4c27-aa80-263ce7c0452a)
 
 #### MenuStrip
 ![igyx menustrip](https://github.com/user-attachments/assets/4a47f9d5-63e5-426c-9060-a3d68035b738)
