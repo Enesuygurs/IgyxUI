@@ -27,6 +27,19 @@ A custom, modern, dark-themed UI control library for C# WinForms, designed to pr
 #### ContextMenuStrip
 ![igyx contextmenustrip](https://github.com/user-attachments/assets/6683f50e-9512-4c47-a654-34549c03188b)
 
+### 💻 Installation (**[Nuget: IgyxUI](https://www.nuget.org/packages/IgyxUI/)**)
+
+1.  **Install via NuGet Package Manager:**
+    - In Visual Studio, right-click on your project in the Solution Explorer and select **Manage NuGet Packages...**.
+    - Go to the **Browse** tab and search for `IgyxUI`
+    - Select the package and click **Install**.
+
+2.  **Install via Package Manager Console:**
+    ```powershell
+    Install-Package IgyxUI
+    ```
+    
+
 ### 🚀 Usage
 
 #### Prerequisites
